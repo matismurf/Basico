@@ -1,0 +1,10 @@
+C:\Projetos\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Projetos\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Projetos\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Projetos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
